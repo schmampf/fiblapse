@@ -9,9 +9,8 @@ or install it "properly"
 https://www.wikihow.com/Install-FFmpeg-on-Windows
 
 ## Ubuntu 20.04
-'''
-sudo apt install ffmpeg
-'''
+> sudo apt install ffmpeg
+
 
 # Run
 ## Windows
@@ -21,6 +20,4 @@ click on it
 
 ## Ubuntu
 open terminal, navigate to directory of picture_to_movie_linux.sh and pictures
-'''
-bash picture_to_movie_linux.sh
-'''
+> bash picture_to_movie_linux.sh
